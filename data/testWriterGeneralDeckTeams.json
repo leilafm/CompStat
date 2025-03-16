@@ -1,0 +1,23 @@
+{
+    "teams": [{
+        "players": [
+            {
+                "hometown": "Pompano, FL",
+                "stats": [],
+                "name": "Lamar Jackson",
+                "position": "Quarterback",
+                "age": 29
+            },
+            {
+                "hometown": "Scottsdale, AZ",
+                "stats": [],
+                "name": "Mark Andrews",
+                "position": "Tight End",
+                "age": 28
+            }
+        ],
+        "name": "Baltimore Ravens"
+    }],
+    "players": [],
+    "name": "My deck"
+}

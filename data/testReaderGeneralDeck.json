@@ -1,0 +1,45 @@
+{
+    "name": "My deck",
+  "players": [
+    {
+      "name": "Joe Burrow",
+      "age": 25,
+      "hometown": "Des Moines, Iowa",
+      "position": "Quarterback",
+      "stats": [25]
+    },
+    {
+      "name": "Lamar Jackson",
+      "age": 29,
+      "hometown": "Pompano, FL",
+      "position": "Quarterback",
+      "stats": [25]
+    }
+  ],
+  "teams": [
+    {
+      "name": "Cincinatti Bengals",
+      "players": [
+        {
+          "name": "Joe Burrow",
+          "age": 25,
+          "hometown": "Des Moines, Iowa",
+          "position": "Quarterback",
+          "stats": [25]
+        }
+      ]
+    },
+    {
+      "name": "Baltimore Ravens",
+      "players": [
+        {
+          "name": "Lamar Jackson",
+          "age": 29,
+          "hometown": "Pompano, FL",
+          "position": "Quarterback",
+          "stats": [25]
+        }
+      ]
+    }
+  ]
+}

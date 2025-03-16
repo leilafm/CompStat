@@ -1,0 +1,20 @@
+{
+    "teams": [],
+    "players": [
+        {
+            "hometown": "Des Moines, Iowa",
+            "stats": [],
+            "name": "Joe Burrow",
+            "position": "Quarterback",
+            "age": 25
+        },
+        {
+            "hometown": "Pompano, FL",
+            "stats": [],
+            "name": "Lamar Jackson",
+            "position": "Quarterback",
+            "age": 29
+        }
+    ],
+    "name": "My deck"
+}
